@@ -52,7 +52,7 @@ function generarMapa(coordenadas, verticesP) {
   });
 
   vertices.setMap(map);
-
+  /*
   var circulo = new google.maps.Circle({
     strokeColor: "#FF0000",
     strokeOpacity: 0.8,
@@ -66,6 +66,8 @@ function generarMapa(coordenadas, verticesP) {
     editable: true,
   });
 
+  markersCircle.push(circulo);
+  */
 
 
 
